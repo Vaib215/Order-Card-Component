@@ -31,9 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Vaib215/Order-Card-Component)
+- Solution URL: [Click here](https://github.com/Vaib215/Order-Card-Component)
 
-- Live Site URL: [Add live site URL here](https://vaib215.github.io/Order-Card-Component/)
+- Live Site URL: [Click here](https://vaib215.github.io/Order-Card-Component/)
 
 ## My process
 
